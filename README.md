@@ -3,6 +3,8 @@
 My name is Tanmay, and I'm a GTech 🐝 physicist exploring the space of Data Science, Machine Learning and its applications to the Financial World!
 - 🔭 I’m currently working on Enigma Asset Management, A L/S Equity Analyst Group, which analyses stocks and publishes reports!
 - 🌱 I’m currently learning various ML models to assist trading and investment decisions
+- 📈 I'm excited to talk about the stock market, more specifically either the American or the Indian Market
+  
 <!--
 **lemontang3/lemontang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
